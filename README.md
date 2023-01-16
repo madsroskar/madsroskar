@@ -1,4 +1,4 @@
-[![linkedin-dark](https://user-images.githubusercontent.com/1548276/134810979-7f854e39-bb8c-4e16-9f86-39387170b0f5.png)](https://github.com/GetStream)
+
 
 
 <img align="left" width="120" height="150" src="duckie.gif" alt="Cool duck with a hat dancing">
